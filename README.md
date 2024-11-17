@@ -3,7 +3,7 @@
 
 [部署的 web 版](https://douyin-31xm.onrender.com/api?url=https://v.douyin.com/NKyY6Ch/)
 
-## 使用
+## 使用wwww
 需要设置cookie，cookie可以从web端抖音控制台获取。[如何在浏览器查看Cookie](https://blog.csdn.net/u011781521/article/details/87791125)
 
 ## 技术栈
